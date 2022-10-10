@@ -8,11 +8,11 @@ h1 {
 
 /* :root {
     --bg-primary: #0275d8;
-    --bg-success: #5cb85c;
+    --bg-success: #5cb85c; !!FORSE METODO UN PO SCOMODO
 }
 
 [class^="col-"] {
-    color: var(--bg-primary);
+    color: var(--bg-primary); !!FORSE METODO UN PO SCOMODO
 } */
 
 [class^="col-"] {
@@ -23,6 +23,6 @@ h1 {
     height: 50px;
 }
 
-.h-70 {
-    margin-bottom: 50px;
+.posting {
+    margin-bottom: 30px;
 }
