@@ -6,13 +6,19 @@ h1 {
     color: black;
 }
 
-.row {
+/* :root {
+    --bg-primary: #0275d8;
+    --bg-success: #5cb85c;
+}
+
+[class^="col-"] {
+    color: var(--bg-primary);
+} */
+
+[class^="col-"] {
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.col-1 {
     border: 1px solid white;
     height: 50px;
 }
